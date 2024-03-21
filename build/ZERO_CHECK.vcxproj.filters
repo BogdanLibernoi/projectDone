@@ -1,13 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\liber\OneDrive\Рабочий стол\OGL\build\CMakeFiles\9dce603a238eccc69bc1a85fc1e34701\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\build\CMakeFiles\7fb8c2703b6046879cd3deb17cec6131\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <None Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\external\glad\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\external\glad</Filter>
+    </None>
+    <None Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\external\glfw\CMake\glfw3.pc.in">
+      <Filter>Buildsystem Input Files\external\glfw\CMake</Filter>
+    </None>
+    <None Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\external\glfw\CMake\glfw3Config.cmake.in">
+      <Filter>Buildsystem Input Files\external\glfw\CMake</Filter>
+    </None>
+    <None Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\external\glfw\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\external\glfw</Filter>
+    </None>
+    <None Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\external\glfw\src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\external\glfw\src</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{6A3E16D1-6F36-3856-8233-631DBD225755}</UniqueIdentifier>
+      <UniqueIdentifier>{E7FFA61B-68F1-3E94-A76F-A13C27A31939}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1E5FACAC-5380-3C72-81E2-86515F5E2785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glad">
+      <UniqueIdentifier>{4192EBF8-EC25-37A9-8166-2A44C1F2687C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glfw">
+      <UniqueIdentifier>{9CE3F046-E873-3181-BC3A-9339A58C1013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glfw\CMake">
+      <UniqueIdentifier>{EA4533FE-710A-3920-B18C-DD8BA33235B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glfw\src">
+      <UniqueIdentifier>{F109B4AD-8BF8-3EF2-8637-21FC3371B8CA}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

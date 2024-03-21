@@ -1,3 +1,8 @@
-C:/Users/liber/OneDrive/Рабочий стол/OGL/build/CMakeFiles/Ogl.dir
-C:/Users/liber/OneDrive/Рабочий стол/OGL/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/liber/OneDrive/Рабочий стол/OGL/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/CMakeFiles/OpenGL-Setup.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glad/CMakeFiles/glad.dir
+C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glad/CMakeFiles/ALL_BUILD.dir
