@@ -1,0 +1,3 @@
+C:/Users/liber/OneDrive/Рабочий стол/OGL/build/CMakeFiles/Ogl.dir
+C:/Users/liber/OneDrive/Рабочий стол/OGL/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/liber/OneDrive/Рабочий стол/OGL/build/CMakeFiles/ZERO_CHECK.dir
