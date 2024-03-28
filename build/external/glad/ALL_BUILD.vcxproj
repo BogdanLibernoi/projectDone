@@ -25,7 +25,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A4C41537-9C7C-3930-80D6-9DD10853D450}</ProjectGuid>
+    <ProjectGuid>{EFE67833-85E5-37E2-AAF4-48BA99A31EF3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -108,11 +108,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\external\glad\CMakeLists.txt">
+    <CustomBuild Include="C:\Lesson-7\OpenGL-Setup\external\glad\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Lesson-7/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup" "-BC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build" --check-stamp-file "C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Lesson-7/OpenGL-Setup -BC:/Lesson-7/OpenGL-Setup/build --check-stamp-file C:/Lesson-7/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -121,11 +121,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Lesson-7\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Lesson-7/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup" "-BC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build" --check-stamp-file "C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Lesson-7/OpenGL-Setup -BC:/Lesson-7/OpenGL-Setup/build --check-stamp-file C:/Lesson-7/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -134,11 +134,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Lesson-7\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Lesson-7/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup" "-BC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build" --check-stamp-file "C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Lesson-7/OpenGL-Setup -BC:/Lesson-7/OpenGL-Setup/build --check-stamp-file C:/Lesson-7/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -147,11 +147,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Lesson-7\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Lesson-7/OpenGL-Setup/external/glad/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup" "-BC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build" --check-stamp-file "C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Lesson-7/OpenGL-Setup -BC:/Lesson-7/OpenGL-Setup/build --check-stamp-file C:/Lesson-7/OpenGL-Setup/build/external/glad/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -160,21 +160,21 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Lesson-7\OpenGL-Setup\build\external\glad\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\build\ZERO_CHECK.vcxproj">
-      <Project>{0962E124-214F-32E5-AE29-0E82C20D123F}</Project>
+    <ProjectReference Include="C:\Lesson-7\OpenGL-Setup\build\ZERO_CHECK.vcxproj">
+      <Project>{1A4917CA-3359-3B98-8EE5-EBC95204AC69}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\liber\OneDrive\Рабочий стол\OpenGL-Setup\build\external\glad\glad.vcxproj">
-      <Project>{883614BA-18C9-3DFF-954B-5815BFD0E03B}</Project>
+    <ProjectReference Include="C:\Lesson-7\OpenGL-Setup\build\external\glad\glad.vcxproj">
+      <Project>{E241F195-0FF5-3503-A02F-97FAC1CBCBEB}</Project>
       <Name>glad</Name>
     </ProjectReference>
   </ItemGroup>

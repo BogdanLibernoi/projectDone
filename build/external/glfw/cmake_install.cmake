@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glfw
+# Install script for directory: C:/Lesson-7/OpenGL-Setup/external/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/external/glfw/src/cmake_install.cmake")
+  include("C:/Lesson-7/OpenGL-Setup/build/external/glfw/src/cmake_install.cmake")
 endif()
 

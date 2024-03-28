@@ -1,6 +1,6 @@
-^C:\USERS\LIBER\ONEDRIVE\РАБОЧИЙ СТОЛ\OPENGL-SETUP\BUILD\CMAKEFILES\7FB8C2703B6046879CD3DEB17CEC6131\GENERATE.STAMP.RULE
+^C:\LESSON-7\OPENGL-SETUP\BUILD\CMAKEFILES\FFAB1EB3D26C3804561757DB51BCD1E1\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup" "-BC:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/OpenGL-Setup.sln"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Lesson-7/OpenGL-Setup -BC:/Lesson-7/OpenGL-Setup/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Lesson-7/OpenGL-Setup/build/OpenGL-Setup.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

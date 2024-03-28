@@ -1,4 +1,9 @@
 # CMake generation dependency list for this directory.
+C:/Lesson-7/OpenGL-Setup/CMakeLists.txt
+C:/Lesson-7/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeCCompiler.cmake
+C:/Lesson-7/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeCXXCompiler.cmake
+C:/Lesson-7/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeRCCompiler.cmake
+C:/Lesson-7/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeSystem.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
@@ -18,8 +23,3 @@ C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
-C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/CMakeLists.txt
-C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeCCompiler.cmake
-C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeCXXCompiler.cmake
-C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeRCCompiler.cmake
-C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/build/CMakeFiles/3.27.0/CMakeSystem.cmake

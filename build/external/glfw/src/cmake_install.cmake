@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glfw/src
+# Install script for directory: C:/Lesson-7/OpenGL-Setup/external/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

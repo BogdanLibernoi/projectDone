@@ -1,4 +1,6 @@
 # CMake generation dependency list for this directory.
+C:/Lesson-7/OpenGL-Setup/external/glfw/CMake/glfw3Config.cmake.in
+C:/Lesson-7/OpenGL-Setup/external/glfw/CMakeLists.txt
 C:/Program Files/CMake/share/cmake-3.27/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeDependentOption.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
@@ -11,5 +13,3 @@ C:/Program Files/CMake/share/cmake-3.27/Modules/FindThreads.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/GNUInstallDirs.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake
 C:/Program Files/CMake/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake
-C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glfw/CMake/glfw3Config.cmake.in
-C:/Users/liber/OneDrive/Рабочий стол/OpenGL-Setup/external/glfw/CMakeLists.txt
